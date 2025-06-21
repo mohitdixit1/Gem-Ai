@@ -1,0 +1,52 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variable files
+.env
+.env.*.local
+
+# Build directories
+dist/
+build/
+.cache/
+.next/
+out/
+
+# OS-related files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Test coverage
+coverage/
+
+# Optional npm cache folder
+.npm/
+
+# Parcel, Vite, etc.
+.parcel-cache/
+*.tsbuildinfo
+
+# Compiled Sass or Less
+*.css.map
+*.scssc
+
+# Misc
+*.tgz
+.idea/
+*.swp
